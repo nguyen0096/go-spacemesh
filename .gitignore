@@ -39,3 +39,4 @@ systest/vendor/*
 .run/*
 
 config.json
+.DS_Store
